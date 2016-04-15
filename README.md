@@ -1,6 +1,6 @@
-#Florida Gators Basketball
+#[click here](http://EthanReblitz.github.io/WPD) to see my class webpage
 ##EthanReblitz.github.io
-###[click here](http://EthanReblitz.github.io/WPD) to see my class webpage
+###Florida Gators Basketball
 
 ![FGBBALL](http://www.gothamgators.com/storage/basketball.jpg?__SQUARESPACE_CACHEVERSION=1428845565352)
 
