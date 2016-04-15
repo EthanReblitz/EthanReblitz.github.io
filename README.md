@@ -1,15 +1,15 @@
 #[click here](http://EthanReblitz.github.io/WPD) to see my class webpage
 ##EthanReblitz.github.io
-###Florida Gators Basketball
+###:basketball: Florida Gators Basketball :basketball:
 
 ![FGBBALL](http://www.gothamgators.com/storage/basketball.jpg?__SQUARESPACE_CACHEVERSION=1428845565352)
 
-**2 National Chamionchips**
+**:trophy: 2 National Chamionchips :trophy:**
 
-**5 Final Four Appearences**
+**:trophy: 5 Final Four Appearences :trophy:**
 
-**8 Elite Eight Appearences**
+**:trophy: 8 Elite Eight Appearences :trophy:**
 
-**7 Regular Season Conference Championchips**
+**:trophy: 7 Regular Season Conference Championchips :trophy:**
 
-**4 Conference Championchips**
+**:trophy: 4 Conference Championchips :trophy:**
