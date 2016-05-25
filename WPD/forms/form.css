@@ -56,7 +56,7 @@ form#signup select{
     -ms-appearance:none;
     appearance:none;
     font-size: 1em;
-    background: #588fd0 url(images/icons_arrows.svg)no-repeat right 8px;
+    background: #588fd0 url(images/icons_arrows.svg) no-repeat right 8px;
     background-size: 30px 20px;
     color: #ffd34c;
     padding: 7px 45px 7px 10px;
@@ -93,7 +93,7 @@ form#signup input[type="radio"] {
 }
 form#signup input#email {
     font-size: .9em;
-    background: rgba(255,255,255,.8) url(images/icon_email.svg)no-repeat 7px 6px;
+    background: rgba(255,255,255,.8) url(images/icon_email.svg) no-repeat 7px 6px;
     background-size: 30px 17px;
     padding: 5px 0px 6px 47px;
     margin: 0px 0px 12px 0px;
