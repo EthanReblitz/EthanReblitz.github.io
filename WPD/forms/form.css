@@ -85,11 +85,11 @@ form#signup input[type="radio"]+label {
 form#signup input:checked+label {
     color: #ffd34c;
 }
-form#signup input[type="checkbox"]+label {
+form#signup input[type="checkbox"]:checked+label {
     background-position: 0px -20px
 }
-form#signup input[type="radio"] {
-    background-position: 0px -6px
+form#signup input[type="radio"]:checked+label {
+    background-position: 0px -60px
 }
 form#signup input#email {
     font-size: .9em;
